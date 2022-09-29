@@ -41,4 +41,4 @@ In order to meet the acceptance criteria, I refactored the existiong code provid
 
 ## Link to deployed app
 
-(http://localhost:52330/develop/index.html)
+(https://jolivas88.github.io/Accessibility-Task/)
